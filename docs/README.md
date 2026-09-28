@@ -13,3 +13,8 @@ Turn text into animatable per-character geometry in TouchDesigner.
 - [Animation and path-placement notes](geotypeadvanced/animation-attributes.md)
 
 [Report a bug or request a feature](https://github.com/mickeyvanolst/Patreon/issues/new/choose).
+
+## TouchDesigner AML operator family
+
+The AML operator family has its own repository. Visit the
+[repository and documentation](https://github.com/mickeyvanolst/TouchDesigner-AML-operator-family) for details.

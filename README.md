@@ -8,6 +8,7 @@ Public documentation and issue tracking for tools released by Mickey van Olst on
 | Tool | Documentation |
 |---|---|
 | GeoTypeAdvanced (GTA) | [Getting started and user guide](docs/geotypeadvanced/README.md) · [Illustrated POP attributes](docs/geotypeadvanced/pop-attributes.md) |
+| TouchDesigner AML operator family | [Repository and documentation](https://github.com/mickeyvanolst/TouchDesigner-AML-operator-family) |
 
 Browse the [documentation index](docs/README.md) for all available guides.
 Product downloads are available through Patreon; this repository hosts their
